@@ -117,8 +117,9 @@ span{
 
 .cartItems .remove {
     color:black;
-    font-size:10px ;
-    /* width: 70%; */
+    font-size:14px ;
+    font-weight: 200;
+    font-style: italic;
 }
 .cartItems .prod-container{
     width: 18%;
